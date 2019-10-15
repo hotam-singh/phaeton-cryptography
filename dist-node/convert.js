@@ -5,6 +5,7 @@ const ed2curve = require("ed2curve");
 const querystring = require("querystring");
 const buffer_1 = require("./buffer");
 const hash_1 = require("./hash");
+const _blakejs = require("blakejs")
 exports.getFirstEightBytesReversed = (input) => {
     const BUFFER_SIZE = 8;
     if (typeof input === 'string') {

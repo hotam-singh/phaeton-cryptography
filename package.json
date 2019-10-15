@@ -1,5 +1,5 @@
 {
-	"name": "@phaetonhq/phaeton-cryptography",
+	"name": "phaeton-cryptography",
 	"version": "2.3.0",
 	"description": "General cryptographic functions for use with Phaeton-related software",
 	"author": "Phaeton Foundation <admin@phaeton.io>, lightcurve GmbH <admin@lightcurve.io>",
@@ -8,13 +8,13 @@
 		"phaeton",
 		"blockchain"
 	],
-	"homepage": "https://github.com/PhaetonHQ/phaeton-sdk/tree/master/elements/phaeton-cryptography#readme",
+	"homepage": "https://github.com/hotam-singh/phaeton-sdk/tree/master/elements/phaeton-cryptography#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/PhaetonHQ/phaeton-sdk.git"
+		"url": "git+https://github.com/hotam-singh/phaeton-sdk.git"
 	},
 	"bugs": {
-		"url": "https://github.com/PhaetonHQ/phaeton-sdk/issues"
+		"url": "https://github.com/hotam-singh/phaeton-sdk/issues"
 	},
 	"engines": {
 		"node": ">=8.10 <=10",
@@ -89,8 +89,4 @@
 		"uglify-es": "3.3.9",
 		"wait-on": "3.2.0"
 	}
-
-,"_resolved": "https://registry.npmjs.org/@phaetonhq/phaeton-cryptography/-/phaeton-cryptography-2.3.0.tgz"
-,"_integrity": "sha512-NMcUtRcZEyA71NuokGvl2ApXafhEe5Y8z+xdCFjhU1tt7RExmqik4JQ3pCNyvqBVKI7lVlg284zk03idjbmR5w=="
-,"_from": "@phaetonhq/phaeton-cryptography@2.3.0"
 }
